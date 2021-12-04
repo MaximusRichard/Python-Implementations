@@ -5,6 +5,7 @@ Performing Support Vector Machine (SVM) and Naïve Bayes Algorithm to Predict th
 # PROJECT DESCRIPTION
 
 User has been thinking that maybe SVM and Naïve Bayes model might produce better results for the dataset, "drugdataset.csv". 
+
 In the favor of this statement, analysis has been performed using both SVM and Naïve Bayes thereby concluding which algorithm contributes to worthier outcomes.
 
 # REFERENTIAL DATASET
