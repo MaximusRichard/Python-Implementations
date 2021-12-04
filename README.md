@@ -12,6 +12,7 @@ In the favor of this statement, analysis has been performed using both SVM and N
 
 The dataset used for this analysis is, “drugdataset.csv” which contains the following variables:
 
+
 Independent Variables:
 
 Age
@@ -23,6 +24,7 @@ BP - Blood Pressure Level (0 For Normal, 1 For Low, 2 For High)
 Cholesterol - Cholesterol Level (0 For Normal, 1 For High)
 
 Na_to_K - Sodium To Potassium Ratio
+
 
 Dependent Variable:
 
